@@ -1,0 +1,6 @@
+@ApiTelefonica_HostAddress = http://localhost:5184
+
+GET {{ApiTelefonica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
